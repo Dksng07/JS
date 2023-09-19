@@ -1,4 +1,4 @@
-let score = "hitesh"
+let score = "dheeraj"
 
 //console.log(typeof score);
 //console.log(typeof(score));
@@ -7,7 +7,7 @@ let valueInNumber = Number(score)
 //console.log(typeof valueInNumber);
 //console.log(valueInNumber);
 
-let isLoggedIn = "hitesh"
+let isLoggedIn = "dheeraj"
 
 let booleanIsLoggedIn = Boolean(isLoggedIn)
 //console.log(booleanIsLoggedIn);
@@ -38,7 +38,7 @@ let negValue = -value
 // console.log(2%3);
 
 let str1 = "hello"
-let str2 = " hitesh"
+let str2 = " Dheeraj"
 
 let str3 = str1 + str2
 // console.log(str3);
